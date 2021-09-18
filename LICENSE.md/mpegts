@@ -1,0 +1,18 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:5
+#EXT-X-MEDIA-SEQUENCE:535582
+#EXT-X-DISCONTINUITY-SEQUENCE:0
+#EXT-SYSTEM-INFO:Play-On="FPT Play",Provider="FPT Telecom"
+#EXTINF:4.0,
+https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/media_b5000000_535582.ts
+#EXTINF:4.0,
+https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/media_b5000000_535583.ts
+#EXTINF:4.0,
+https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/media_b5000000_535584.ts
+#EXTINF:4.0,
+https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/media_b5000000_535585.ts
+#EXTINF:4.0,
+https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/media_b5000000_535586.ts
+#EXTINF:4.0,
+https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/media_b5000000_535587.ts
